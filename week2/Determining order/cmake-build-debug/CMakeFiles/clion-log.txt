@@ -1,0 +1,4 @@
+"C:\Users\DEEPAK CHAUDHARY\AppData\Local\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Ds algo\Graphs\Week2\Determining order"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Ds algo/Graphs/Week2/Determining order/cmake-build-debug
